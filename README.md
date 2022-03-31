@@ -1,5 +1,5 @@
 # fintech
 
-UC Berkeleey Bootcamp Student
+## UC Berkeleey Bootcamp Student
 
 Week 2
